@@ -1,0 +1,20 @@
+ARDUINO AND FINGERPRINT SENSOR
+
+ARDUINO ---------------------- FINGERPRINT SENSOR
+
+  5V                                VCC
+  TX                                RX
+  RX                                TX
+  GND                               GND
+  
+  
+  
+SERVO MOTOR AND ARDUINO
+  
+ARDUINO -------------------- SERVO MOTOR
+  
+  5V                                SERVO RED WIRE
+  GND                               SERVO BROWN WIRE
+  PIN 12                            SERVO RED WIRE (YOU CAN CHANNGE THE PIN ACCORDING TO THE CODE)
+  
+  
