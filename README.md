@@ -33,3 +33,9 @@ https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/CONNE
 https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/Code%20to%20check%20fingerprint%20and%20unlock%20door
 
 5. PLACE YOUR FINGRPRINT ON THE SENSOR AND YOUR LOCK UNLOCKS...!!!!
+
+
+
+
+*** WORKING ON A MOBILE APP TO RECEIVE LOCKING AND UNLOCKING DETAILS.
+*** SAME DETAILS ON A CLOUD PLATFORM.
