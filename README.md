@@ -16,4 +16,15 @@ THINGS REQUIRED
 
 5.Bread Board
 
-Arduino IDE
+6.Arduino IDE
+
+
+STEPS
+
+1. MAKE THE CONNECTIONS AS GIVEN IN THE CONNECTION DOCUMENT.
+https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/CONNECTIONS
+2.UPLOAD THE ENROLL CODE FIRST ON THE BOARD.
+https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/CONNECTIONS
+3. ENROLL A FINGERPRINT.
+4.UPLOAD THE CODE FOR CHECKING AND UNLOCKING THE DOOR.
+https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/Code%20to%20check%20fingerprint%20and%20unlock%20door
