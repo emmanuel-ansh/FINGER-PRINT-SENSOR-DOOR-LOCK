@@ -7,9 +7,13 @@ Fingerprint locks are very strong locks as it can't be opened without the human 
 THINGS REQUIRED 
 
 1.Arduino Uno
+
 2.Adafruit Fingrprint Sensor
+
 3.Servo Motor
+
 4.Jumper Wires
+
 5.Bread Board
 
 Arduino IDE
