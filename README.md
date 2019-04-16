@@ -41,4 +41,4 @@ https://github.com/emmanuel-ansh/FINGER-PRINT-SENSOR-DOOR-LOCK/blob/master/Code%
 
 *** SAME DETAILS ON A CLOUD PLATFORM.
 
-THANK YOU
+THANK YOU....!!
