@@ -15,6 +15,6 @@ ARDUINO -------------------- SERVO MOTOR
   
   5V                                SERVO RED WIRE
   GND                               SERVO BROWN WIRE
-  PIN 12                            SERVO RED WIRE (YOU CAN CHANNGE THE PIN ACCORDING TO THE CODE)
+  PIN 12                            SERVO ORANGE WIRE (YOU CAN CHANNGE THE PIN ACCORDING TO THE CODE)
   
   
